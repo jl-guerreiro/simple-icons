@@ -18225,6 +18225,13 @@
 		"source": "https://www.vivo.com"
 	},
 	{
+		"title": "Vivo",
+		"slug": "vivo_telco",
+		"hex": "660099",
+		"source": "https://brandfactory.telefonica.com/document/4201#/vivo/logo",
+		"guidelines": "https://brandfactory.telefonica.com/document/4201#/vivo/logo"
+	},
+	{
 		"title": "VK",
 		"hex": "0077FF",
 		"source": "https://vk.com/brand",
